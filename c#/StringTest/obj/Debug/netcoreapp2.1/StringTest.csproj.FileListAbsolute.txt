@@ -1,0 +1,11 @@
+C:\work\c#\StringTest\bin\Debug\netcoreapp2.1\StringTest.deps.json
+C:\work\c#\StringTest\bin\Debug\netcoreapp2.1\StringTest.runtimeconfig.json
+C:\work\c#\StringTest\bin\Debug\netcoreapp2.1\StringTest.runtimeconfig.dev.json
+C:\work\c#\StringTest\bin\Debug\netcoreapp2.1\StringTest.dll
+C:\work\c#\StringTest\bin\Debug\netcoreapp2.1\StringTest.pdb
+C:\work\c#\StringTest\obj\Debug\netcoreapp2.1\StringTest.csprojAssemblyReference.cache
+C:\work\c#\StringTest\obj\Debug\netcoreapp2.1\StringTest.csproj.CoreCompileInputs.cache
+C:\work\c#\StringTest\obj\Debug\netcoreapp2.1\StringTest.AssemblyInfoInputs.cache
+C:\work\c#\StringTest\obj\Debug\netcoreapp2.1\StringTest.AssemblyInfo.cs
+C:\work\c#\StringTest\obj\Debug\netcoreapp2.1\StringTest.dll
+C:\work\c#\StringTest\obj\Debug\netcoreapp2.1\StringTest.pdb
